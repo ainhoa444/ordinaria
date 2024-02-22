@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(226, 153, 44);
+}
+
+.blanco{
+    color: white;
+}
+a{
+    color: green;
+
+}
+a:hover{
+    color: red;
+    background-color: yellow;
+}
+.divmenu{
+    background-color: lightblue;
+}
+
+
+
+.divarriba{
+    background-color: white;
+    height: 10px;
+    width: 2000px;
+
+
+}
+.divarriba2{
+    background-color: blue;
+    height: 10px;
+    width: 2000px;
+
+
+}
+.div1{
+    background-color: white;
+    width: 2000px;
+    height: 200px;
+}
+.div1pequeño{
+    background-color: blue;
+}
+.imagen2{
+    
+    float: right;
+}
+
+
+
+.div2{
+    background-color: lightblue;
+    width: 2000px;
+    height: 200px;
+}
+.divcv{
+    background-color: lightblue;
+    width: 900px;
+    height: 300px;
+    align-items: center;
+}
+.divcv2{
+    background-color: salmon;
+    width: 2000px;
+    height: 50px;
+}
+.raya{
+    background-color: white;
+    width: 2000px;
+    height: 5px;}
+
+.divcv3{
+    background-color: salmon;
+    width: 2000px;
+    height: 100px;
+}
+.servicio{
+    background-color: yellow;
+
+}
+.texto{
+    display: inline;
+}
+.texto2{
+    background-color: yellow;
+}
+
+.servicio{
+    background-color: yellow;
+}
